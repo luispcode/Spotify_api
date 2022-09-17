@@ -1,6 +1,6 @@
 Hola Mundo! 🌎
 
-# Trbajando la API de Spotify
+# Trbajando con la API de Spotify
 
 <img src="https://developer.spotify.com/assets/branding-guidelines/logo@2x.png" width=70000></img>
 
