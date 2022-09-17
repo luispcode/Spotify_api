@@ -1,11 +1,11 @@
 Hola Mundo! 🌎
 
-# Trbajando el API de Spotify
+# Trbajando la API de Spotify
 
 <img src="https://developer.spotify.com/assets/branding-guidelines/logo@2x.png" width=70000></img>
 
 
-En este repositorio utilizaremos la API para obtener información sobre artistas, discos y tracks disponibles en Spotify. Pero primero:
+En este repositorio utilizaremos la API de Spotify para obtener información sobre artistas, discos y tracks disponibles en Spotify. Pero primero:
 
 #####  ¿Qué es una **API**?
 
@@ -13,7 +13,7 @@ Por sus siglas en inglés, una API es una interfaz para programar aplicaciones (
 
 #### REST
 
-Un término se seguramente te vas a encontrar cuando estés buscando información en internet es **REST** o *RESTful*. Significa *representational state transfer* y si una API es REST o RESTful, implica que respeta unos determinados principios de arquitectura, como por ejemplo un protocolo de comunicación cliente/servidor (que será HTTP) y (entre otras cosas) un conjunto de operaciones definidas que conocemos como **métodos**, por ejemplo el método GET para hacer solicitudes a servidores web.
+Un término se seguramente te vas a encontrar cuando estés buscando información en internet es **REST** o *RESTful*. Significa *representational state transfer* y si una API es REST o RESTful, implica que respeta unos determinados principios de arquitectura, como por ejemplo un protocolo de comunicación cliente/servidor (que será HTTP) y (entre otras cosas) un conjunto de operaciones definidas que conocemos como **métodos**, por ejemplo, el método GET para hacer solicitudes a servidores web.
 
 #### Documentación
 
